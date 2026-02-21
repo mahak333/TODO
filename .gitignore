@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+dist/
+coverage/
+.env
+.DS_Store
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+out/
+.idea/
